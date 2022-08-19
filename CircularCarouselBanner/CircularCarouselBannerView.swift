@@ -78,7 +78,8 @@ class CircularCarouselBannerView: UIView {
             items.append(contentsOf: images)
         }
         
-        //앞뒤에 추가로 아이템을 이어붙인 image array
+        // 앞뒤에 추가로 아이템을 이어붙인 image array
+        // [0 1 2 3] -> [3 0 1 2 3 0]
         self.innerItems = items
     }
     
