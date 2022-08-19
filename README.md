@@ -2,4 +2,4 @@
 iOS Swift CircularCarouselBannerView Example
 
 ## Diagram
-<img src="./circularbanner.png" width="300">
+<img src="./circularbanner.png" width="1000">
